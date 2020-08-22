@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TIP APP
 //
-//  Created by searto  on 8/14/20.
+//  Created by fanflor theodore  on 8/14/20.
 //  Copyright © 2020 searto . All rights reserved.
 //
 
